@@ -24,6 +24,12 @@ The Nylas website has good guides that go into more depth, and provide more opti
 
 ## Run the code
 
-The sample code is in the `/bin` directory.
+The sample code is within the `/bin` directory:
+
+  * [nylas-demo-with-node.mjs](bin/nylas-demo-with-node/nylas-demo-with-node.mjs)
+
+  * [nylas-demo-with-python.py](bin/nylas-demo-with-ruby/nylas-demo-with-python.py)
+
+  * [nylas-demo-with-ruby.rb](bin/nylas-demo-with-ruby/nylas-demo-with-ruby.rb)
 
 Each sample code file includes comments that describe how to run it, such as how to install dependencies, how to configure environment variables, etc.
